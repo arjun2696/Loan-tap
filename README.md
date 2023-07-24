@@ -1,5 +1,7 @@
 # Loan Tap Business Case Study
 
+# Logistic Regression Problem
+
 
 # About Loan Tap:
 LoanTap is an online platform committed to delivering customized loan products to millennials. 
